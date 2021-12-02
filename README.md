@@ -1,6 +1,6 @@
 # Introduction
-![Code Block](media/codeSVG.svg)
-**Aspiration**
+
+**Aspiration** ![Code Block](media/codeSVG.svg)
 
 I aspire to use code to help aid learning and further science.
 <br>
