@@ -1,4 +1,4 @@
-# Introduction ![Code Block](media/codeSVG.svg)
+# ![Code Block](media/codeSVG.svg) Introduction
 
 **Aspiration**
 
