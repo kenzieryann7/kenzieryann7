@@ -1,10 +1,11 @@
 # Introduction
 
-**Aspiration** ![Code Block](media/codeSVG.svg)
+
 
 I aspire to use code to help aid learning and further science.
 <br>
 <br>
+**Aspiration** ![Code Block](media/codeSVG.svg)
 I am currently pursuing a bachelor's degree in Computer Science at
 Oregon State Univeristy. **GO BEAVS!** I
 started my journey here at OSU in 2018 and jumped right into web
