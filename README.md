@@ -79,10 +79,6 @@ This application was created with Vue and Bootstrap 5. I originally created this
 
 <h3>*MORE COMING SOON*</h3>
 
-## Résumé
-
-![Résumé](media/resume.PNG)
-
 ## Contact Me
 
 **Phone**
