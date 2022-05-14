@@ -81,10 +81,6 @@ This application was created with Vue and Bootstrap 5. I originally created this
 
 ## Contact Me
 
-**Phone**
-<br>
-(541) 936-6439
-<br>
 **Email**
 <br>
 makenzienoggle@gmail.com
