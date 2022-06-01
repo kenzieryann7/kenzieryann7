@@ -77,6 +77,12 @@ This application was created with Vue and Bootstrap 5. I originally created this
 
 ![Pokédex Database Visual](media/pokedex.gif)
 
+### Pulsar
+An incremental idle game played through your web browser. Still currently in development.
+
+**Spaceships created using Adobe Illustrator**
+![Spaceship Showcase](media/ship-showcase.png)
+
 <h3>*MORE COMING SOON*</h3>
 
 ## Contact Me
